@@ -1,14 +1,15 @@
 # Teknowell EduTech – Institutional Performance & Analytics Dashboard
 
 # 1. Project Title / Headline
-Teknowell EduTech – Institutional Performance & Analytics Dashboard.
+Teknowell EduTech – Institutional Performance & Analytics Dashboard.  
 "An End-to-End BI Solution to Monitor Institutional Performance, Student Outcomes, Financial Health & Trainer Effectiveness."
 
 # 2. Short Description / Purpose
 1-2 sentences explaining what the dashboard does and why it exists.
 
-This project delivers a comprehensive Power BI analytics system for Technowell EduTech to monitor student enrollment trends, course performance, revenue generation, fee collection, and outstanding dues.  
-The dashboards help management take data-driven decisions related to course demand, revenue planning, and student fee tracking.
+This project presents an end-to-end Power BI analytics solution for Technowell EduTech, designed to provide a 360-degree view of institutional performance.  
+The dashboard ecosystem tracks student enrollment trends, course-wise revenue, fee collection status, placement outcomes, student performance, attendance patterns, and trainer effectiveness.  
+By consolidating academic, financial, and placement data into interactive dashboards, the solution enables management to make data-driven decisions related to course planning, revenue optimization, student success, and trainer performance.
 
 # 3. Tech Stack
 List the key technologies used to build the dashboard.
