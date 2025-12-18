@@ -105,7 +105,7 @@ The dashboard aims to:
 ## C. Walkthrough of Key Visuals (Brief Overview)
 The Power BI solution consists of multiple dashboards, each focusing on a critical aspect of institutional performance:
 
-💰###1. Student Fees Performance Dashboard
+💰 1. Student Fees Performance Dashboard
 
 - Total Fees, Paid Fees & Outstanding Amount (KPI Cards)  
   Provides a quick snapshot of overall financial health.
@@ -114,7 +114,7 @@ The Power BI solution consists of multiple dashboards, each focusing on a critic
 - Student-level Fee Details Table  
   Enables granular tracking of individual student payments and pending dues.
 
-###📊 2. Course Enrollment & Revenue Dashboard
+📊 2. Course Enrollment & Revenue Dashboard
 
 - Monthly Enrollment Trend (Line Chart)  
   Tracks month-wise student enrollments to identify growth patterns and seasonality.
@@ -125,7 +125,7 @@ The Power BI solution consists of multiple dashboards, each focusing on a critic
 - City-wise Student Distribution  
   Shows enrollment contribution from different cities to analyze regional demand.
 
-###🧑‍🎓 3. Student Performance & Attendance Dashboard
+🧑‍🎓 3. Student Performance & Attendance Dashboard
 
 - Average Marks & Performance Bands  
   Categorizes students based on academic performance.
@@ -134,7 +134,7 @@ The Power BI solution consists of multiple dashboards, each focusing on a critic
 - Subject-wise Performance Tables  
   Provides detailed academic insights at the subject level.
 
-###🎯 4. Placement & Career Outcome Dashboard
+🎯 4. Placement & Career Outcome Dashboard
 
 - Placement Rate KPI  
   Displays the percentage of students placed across courses.
@@ -145,7 +145,7 @@ The Power BI solution consists of multiple dashboards, each focusing on a critic
 - Course-wise Placement Performance  
   Identifies courses with strong and weak placement outcomes.
 
-###👨‍🏫 5. Trainer & Batch Performance Dashboard
+👨‍🏫 5. Trainer & Batch Performance Dashboard
 
 - Trainer Rating KPIs  
   Evaluates trainer effectiveness based on student feedback.
