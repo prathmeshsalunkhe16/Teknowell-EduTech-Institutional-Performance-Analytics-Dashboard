@@ -171,4 +171,13 @@ The dashboard looks like:
 
 Page 1 - ![Student Fees Performance Dashboard](https://github.com/prathmeshsalunkhe16/Technowell-EduTech-Education-Analytics-Revenue-Performance-Dashboard/blob/main/Student%20Fees%20Performance%20Dashboard%20Snapshot.png)
 
-Page 2 - ![Course Enrollment Revenue Dashboard](https://github.com/prathmeshsalunkhe16/Technowell-EduTech-Education-Analytics-Revenue-Performance-Dashboard/blob/main/Course%20Enrollment%20%26%20Revenue%20Dashboard%20Snapshot.png)
+Page 2 - ![Course Enrollment & Revenue Dashboard](https://github.com/prathmeshsalunkhe16/Technowell-EduTech-Education-Analytics-Revenue-Performance-Dashboard/blob/main/Course%20Enrollment%20%26%20Revenue%20Dashboard%20Snapshot.png)
+
+Page 3 - ![Student Performance & Attendance Dashboard]
+(https://github.com/prathmeshsalunkhe16/Teknowell-EduTech-Institutional-Performance-Analytics-Dashboard/blob/main/Student%20Performance%20%26%20Attendance%20Dashboard%20Snapshot.png)
+
+Page 4 - ![Placement & Career Outcome Dashboard]
+(https://github.com/prathmeshsalunkhe16/Teknowell-EduTech-Institutional-Performance-Analytics-Dashboard/blob/main/Placement%20%26%20Career%20Outcome%20Dashboard%20Snapshot.png)
+
+Page 5 - ![Trainer & Batch Performance Dashboard]
+(https://github.com/prathmeshsalunkhe16/Teknowell-EduTech-Institutional-Performance-Analytics-Dashboard/blob/main/Trainer%20%26%20Batch%20Performance%20Dashboard%20Snapshot.png)
