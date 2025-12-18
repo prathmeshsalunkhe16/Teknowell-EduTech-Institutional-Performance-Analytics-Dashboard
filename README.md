@@ -5,7 +5,7 @@ Teknowell EduTech – Institutional Performance & Analytics Dashboard.
 "An End-to-End BI Solution to Monitor Institutional Performance, Student Outcomes, Financial Health & Trainer Effectiveness."
 
 # 2. Short Description / Purpose
-1-2 sentences explaining what the dashboard does and why it exists.
+3-4 sentences explaining what the dashboard does and why it exists.
 
 This project presents an end-to-end Power BI analytics solution for Technowell EduTech, designed to provide a 360-degree view of institutional performance.  
 The dashboard ecosystem tracks student enrollment trends, course-wise revenue, fee collection status, placement outcomes, student performance, attendance patterns, and trainer effectiveness.  
@@ -15,11 +15,26 @@ By consolidating academic, financial, and placement data into interactive dashbo
 List the key technologies used to build the dashboard.
 
 The dashboard was build using the following tools and technologies:
-- 📊 Power BI (Dashboard Design, Visualizations, DAX, Power Query)
-- 🧠 DAX Measures (Revenue, Enrollment, Fee Collections, Outstanding Amount, Time Intelligence)
-- 📂 Power Query (Data Cleaning, Lookup Merge, Month–Year extraction)
-- 📉 Excel (Initial data preparation)
-- 🔄️ ETL Techniques (Data Loading, Transforming, Merging, Calendar Table)
+- 📊 Power BI
+  - Interactive dashboard design
+  - Advanced data visualizations (Cards, Bar Charts, Line Charts, Donut Charts, TreeMaps, Tables)
+  - Cross-filtering & slicer-based interactivity
+- 🧠 DAX (Data Analysis Expressions)
+  - KPI calculations (Revenue, Fees, Placement Rate, Avg Marks, Attendance %)
+  - Time intelligence (Monthly Enrollment Trends)
+  - Conditional logic for performance bands & attendance categories
+- 📉 Excel
+  - Raw data source & initial data preparation
+  - Master data for students, courses, trainers & fees
+- 🔄️ Power Query (ETL Techniques)
+  - Data cleaning & transformation
+  - Data merging across multiple tables (Students, Courses, Fees, Placements, Trainers)
+  - Date hierarchy creation (Month–Year extraction)
+  - Handling missing, duplicate & inconsistent data
+- 📂 Data Modeling
+  - Star schema design
+  - Relationship management across fact & dimension tables
+  - Optimized model for performance & scalability
 
 # 4. Data Source
 Internal student database of Technowell EduTech Institute  
